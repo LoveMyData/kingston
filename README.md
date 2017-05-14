@@ -1,6 +1,6 @@
 # City of Kingston Council Scraper
 
-Willoughby City Council Council involves the followings
+This council involves the followings
 * Server - .NET - ePathway
 * Cookie tracking - Yes
 * Pagnation - Yes with restriction
